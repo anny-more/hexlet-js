@@ -1,0 +1,22 @@
+{
+  "name": "hexlet-js",
+  "version": "1.0.0",
+  "description": "first try npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+ssh://git@github.com/anny-more/hexlet-js.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "anny-more",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anny-more/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/anny-more/hexlet-js#readme"
+}
